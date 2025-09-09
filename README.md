@@ -22,6 +22,15 @@ It covers EKS setup, application deployment, and external access via Ingress + L
 
 3.Configured Ingress Controller for routing external traffic
 
+## Screenshots
+
+### EKS Cluster
+![EKS Cluster](screenshots/eks-cluster.png)
+
+### 2048 Game
+![2048 Game](screenshots/2048-game.png)
+
+
 4.Exposed the app through AWS Load Balancer
 
 5.Verified the 2048 game app on a public endpoint
