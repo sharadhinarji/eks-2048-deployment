@@ -1,10 +1,11 @@
-📌 Project Overview
+# Project Overview
+
 This project demonstrates deploying the 2048 Game Application on Amazon EKS (Elastic Kubernetes Service) using Kubernetes.
 It covers EKS setup, application deployment, and external access via Ingress + Load Balancer.
 
-🛠️ Tools & Technologies
+# Tools & Technologies
 * Amazon EKS
-
+* 
 * Kubernetes (kubectl)
 
 * Ingress Controller
@@ -13,7 +14,7 @@ It covers EKS setup, application deployment, and external access via Ingress + L
 
 * YAML Manifests
 
-⚙️ Steps Implemented
+# Steps Implemented
 
 1.Created an EKS cluster and configured kubectl
 
