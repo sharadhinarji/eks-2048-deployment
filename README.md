@@ -5,7 +5,7 @@ It covers EKS setup, application deployment, and external access via Ingress + L
 
 # Tools & Technologies
 * Amazon EKS
-* 
+  
 * Kubernetes (kubectl)
 
 * Ingress Controller
